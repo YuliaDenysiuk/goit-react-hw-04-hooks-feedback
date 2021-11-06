@@ -1,0 +1,12 @@
+.option {
+  font-weight: 600;
+}
+.total {
+  text-transform: uppercase;
+}
+
+.percent {
+  text-transform: uppercase;
+  color: rgb(32, 162, 32);
+  font-weight: 800;
+}
